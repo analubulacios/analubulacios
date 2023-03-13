@@ -9,7 +9,7 @@ I am a software developer based in Tucumán, Argentina📍, and I have a great p
 
 ---
 <br>
-<h3 align='center'><strong>📐 Languages & Tools</strong></h3>
+<h3 align='center'><strong> 📐 Languages & Tools: </strong></h3>
 <br>
 
 <table align="center">
