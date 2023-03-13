@@ -7,13 +7,6 @@
 I am a software developer based in Tucumán, Argentina📍, and I have a great passion for programming and learning as much as I can. I have worked as a Full Stack developer on web projects, which has allowed me to acquire valuable experience in the development of modern web applications 🤓. I am passionate about the idea of creating innovative solutions that can improve people's lives. I am always looking for new ways to improve my skills and knowledge.If you have any questions or if you are interested in knowing more about me, do not hesitate to contact me!
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-lucia-bulacios-9592a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-lucia-bulacios-9592a8255/" height="30" width="40" /></a>
-</p>
-
-
-
 ---
 <br>
 <h3 align='center'><strong>📐 Languages & Tools</strong></h3>
@@ -87,6 +80,11 @@ I am a software developer based in Tucumán, Argentina📍, and I have a great p
   </tr>
   
 </table>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-lucia-bulacios-9592a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-lucia-bulacios-9592a8255/" height="30" width="40" /></a>
+</p>
 
 
 
