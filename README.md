@@ -1,8 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm Ana L. Bulacios</h1>
+<h1 align="center">Hello 👋, I'm Ana L. Bulacios</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina.</h3>
 
+
+### 😍 What i like to do:
+- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
 
 
