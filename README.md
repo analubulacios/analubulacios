@@ -80,6 +80,7 @@ I am a software developer based in Tucumán, Argentina📍, and I have a great p
   </tr>
   
 </table>
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
