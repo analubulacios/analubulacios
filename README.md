@@ -80,9 +80,10 @@ I am a software developer based in Tucumán, Argentina📍, and I have a great p
   </tr>
   
 </table>
----
 
-<h3 align="center">Connect with me:</h3>
+<br>
+<h3 align='center'><strong>Connect with me:></h3>
+<br>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-lucia-bulacios-9592a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-lucia-bulacios-9592a8255/" height="30" width="40" /></a>
 </p>
