@@ -1,10 +1,11 @@
 
 
 <h1 align="center">Hello 👋, I'm Ana L. Bulacios</h1>
-<h3 align="center">A passionate Fullstack developer from Argentina.</h3>
 
-I am a software developer based in Tucumán, Argentina, and I have a great passion for programming and learning as much as I can. I have worked as a Full Stack developer on web projects, which has allowed me to acquire valuable experience in the development of modern web applications. I love facing new challenges and solving complex problems through technology. I firmly believe that technology can change the world, and I am passionate about the idea of creating innovative solutions that can improve people's lives. I am always looking for new ways to improve my skills and knowledge. I am excited to continue growing in the technological world and to work with incredible teams to create solutions that make a difference. If you have any questions or if you are interested in knowing more about me, do not hesitate to contact me!
 
+<p align='justify'>
+I am a software developer based in Tucumán, Argentina📍, and I have a great passion for programming and learning as much as I can. I have worked as a Full Stack developer on web projects, which has allowed me to acquire valuable experience in the development of modern web applications 🤓. I am passionate about the idea of creating innovative solutions that can improve people's lives. I am always looking for new ways to improve my skills and knowledge. I am excited to continue growing in the technological world and to work with incredible teams to create solutions that make a difference. If you have any questions or if you are interested in knowing more about me, do not hesitate to contact me!
+</p>
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
