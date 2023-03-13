@@ -15,54 +15,41 @@ I am a software developer based in Tucumán, Argentina📍, and I have a great p
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
-      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <br>CSS3
     </td>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="36" height="36" alt="JavaScript" />
-      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <br>JavaScript
     </td>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
-      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <br>React
     </td>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
-      </a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
       <br>Redux
     </td>
+    <td align="center"  width="100">
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+      <br>Express
+    </td>
   </tr>
-  
+ 
   <tr>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://nodejs.dev/static/images/logos/nodejs-new-pantone-white.svg" width="50" height="50" alt="NodeJS" />
-      </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
       <br>Node.js
+    <td align="center" width="100">
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+      <br>Git
     </td>
     <td align="center" width="100"> 
-      <a href="#" >
-        <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" width="50" height="50" alt="ExpressJS" />
-      </a>
-      <br>Express.js
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <br>HTML
     </td>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
-      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="100">
@@ -71,14 +58,33 @@ I am a software developer based in Tucumán, Argentina📍, and I have a great p
       </a>
       <br>Sequelize
     </td>
- <td size="1" align="center" width="100">
-      <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
-      </a>
-      <br><font size="1">React Native</font>
-    </td>
   </tr>
   
+  <tr>
+    <td align="center" width="100">
+      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+      <br>Postman
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+      <br>SQLite
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="50" height="50" alt="Visual">
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" width="50" height="50" alt="React" />
+      </a>
+      <br>Scrum
+    </td>
+ <td align="center"  width="100">
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+      <br>Figma
+    </td>
+  </tr>
 </table>
 
 ---
